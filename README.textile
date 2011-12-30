@@ -1,7 +1,7 @@
-# Preface
+h1. Preface
 This is the little "project" in witch I'm going to keep gloryfied version of the 6-lines css code witch make ugly ugly ugly pages to more pleasent condition to my eyes.
 
-# How to use
+h1. How to use
 
 First, I must admit: I'm using Google Chrome. Usually, when I saw theese ugly manuals I spoke "F@ck!" and quikly sketched up some css to put it to the body tag of the page. But after reload all the uglinnes came up again.
 So I discovered a chrome plugin called "Personalized web":https://chrome.google.com/webstore/detail/plcnnpdmhobdfbponjpedobekiogmbco
@@ -10,11 +10,11 @@ And it changed my life!
 =)
 
 This is my own regular expression of the sites I want to change styling for:
-@^http://(www.freebsd.org|zsh.sourceforge.net|www.w3.org|comp-science.narod.ru|beej.us)/(doc/en/articles|Protocols|TR|DL-AR|[Gg]uide)*
+bc. ^http://(www.freebsd.org|zsh.sourceforge.net|www.w3.org|comp-science.narod.ru|beej.us)/(doc/en/articles|Protocols|TR|DL-AR|[Gg]uide)*
 
 and this is all of the css
 
-html body {
+@html body {
   max-width: 1000px;
   margin: 0 auto;
   font-family: "PT Serif", Georgia, serif;
@@ -25,6 +25,6 @@ html body {
 }
 a {
   color: #00A !important;
-}
+}@
 
 And that's *all*! Happynes. Joy. =)
