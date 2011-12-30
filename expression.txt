@@ -1,0 +1,1 @@
+^http://(www.freebsd.org|zsh.sourceforge.net|www.w3.org|comp-science.narod.ru|beej.us)/(doc/en/articles|Protocols|TR|DL-AR|[Gg]uide)*

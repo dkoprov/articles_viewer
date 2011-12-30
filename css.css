@@ -1,0 +1,12 @@
+html body {
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: "PT Serif", Georgia, serif;
+  color: #444;
+  font-size: 1.3em;
+  line-height: 1.4em;
+  padding: 1.8em 2em;
+}
+a {
+  color: #00A !important;
+}
