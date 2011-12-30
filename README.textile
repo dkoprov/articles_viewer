@@ -1,4 +1,5 @@
 h1. Preface
+
 This is the little "project" in witch I'm going to keep gloryfied version of the 6-lines css code witch make ugly ugly ugly pages to more pleasent condition to my eyes.
 
 h1. How to use
@@ -10,11 +11,12 @@ And it changed my life!
 =)
 
 This is my own regular expression of the sites I want to change styling for:
-bc. ^http://(www.freebsd.org|zsh.sourceforge.net|www.w3.org|comp-science.narod.ru|beej.us)/(doc/en/articles|Protocols|TR|DL-AR|[Gg]uide)*
+
+@^http://(www.freebsd.org|zsh.sourceforge.net|www.w3.org|comp-science.narod.ru|beej.us)/(doc/en/articles|Protocols|TR|DL-AR|[Gg]uide)*@
 
 and this is all of the css
 
-@html body {
+html body {
   max-width: 1000px;
   margin: 0 auto;
   font-family: "PT Serif", Georgia, serif;
@@ -25,6 +27,6 @@ and this is all of the css
 }
 a {
   color: #00A !important;
-}@
+}
 
-And that's *all*! Happynes. Joy. =)
+And that's *all*! Happiness. Joy. =)
