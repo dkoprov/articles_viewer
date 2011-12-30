@@ -16,6 +16,7 @@ This is my own regular expression of the sites I want to change styling for:
 
 and this is all of the css
 
+{% highlight css %}
 html body {
   max-width: 1000px;
   margin: 0 auto;
@@ -28,5 +29,6 @@ html body {
 a {
   color: #00A !important;
 }
+{% endhighlight %}
 
 And that's *all*! Happiness. Joy. =)
