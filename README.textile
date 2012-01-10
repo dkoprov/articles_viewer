@@ -1,34 +1,25 @@
 h1. Preface
 
-This is the little "project" in witch I'm going to keep gloryfied version of the 6-lines css code witch make ugly ugly ugly pages to more pleasent condition to my eyes.
+This is the little "project" where I'm going to keep gloryfied version of the 6-lines css code witch make ugly ugly ugly pages to more pleasent condition to my eyes.
 
 h1. How to use
 
-First, I must admit: I'm using Google Chrome. Usually, when I saw theese ugly manuals I spoke "F@ck!" and quikly sketched up some css to put it to the body tag of the page. But after reload all the uglinnes came up again.
-So I discovered a chrome plugin called "Personalized web":https://chrome.google.com/webstore/detail/plcnnpdmhobdfbponjpedobekiogmbco
-And it changed my life!
+h2. Crome plugin
+It's called "Personalized web":https://chrome.google.com/webstore/detail/plcnnpdmhobdfbponjpedobekiogmbco
+Install it and be carefull: it could change your life! =)
 
-=)
+h2. Regular Expression
 
-This is my own regular expression of the sites I want to change styling for:
+Stored in expression.txt
 
-@^http://(www.freebsd.org|zsh.sourceforge.net|www.w3.org|comp-science.narod.ru|beej.us)/(doc/en/articles|Protocols|TR|DL-AR|[Gg]uide)*@
+h2. CSS
 
-and this is all of the css
+Stored in css.css (oh I know, weird name)
 
-{% highlight css %}
-html body {
-  max-width: 1000px;
-  margin: 0 auto;
-  font-family: "PT Serif", Georgia, serif;
-  color: #444;
-  font-size: 1.3em;
-  line-height: 1.4em;
-  padding: 1.8em 2em;
-}
-a {
-  color: #00A !important;
-}
-{% endhighlight %}
+h2. Font
+
+I'm using a serif font "PT Serif". You can get by the "link":http://www.fontstock.com/public/PTSerif.zip
+If you don't want to get your Fonts directory dirty, Georgia will serve you well.
+Or, if you don't have Georgia, you will see default serif font of your browser.
 
 And that's *all*! Happiness. Joy. =)
