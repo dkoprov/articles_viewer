@@ -4,9 +4,9 @@ This is the little "project" where I'm going to keep gloryfied version of the 6-
 
 h1. How to use
 
-h2. Crome plugin
+h2. Chrome plugin
 
-I'm using Crome browser.
+I'm using a Google Chrome browser.
 For customising css on pages you want to have custom css there is a plugin. It's called "Personalized web":https://chrome.google.com/webstore/detail/plcnnpdmhobdfbponjpedobekiogmbco
 Install it and be carefull: it could change your life! =)
 
