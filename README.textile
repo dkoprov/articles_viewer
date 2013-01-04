@@ -24,4 +24,18 @@ I'm using a serif font "PT Serif". You can get by the "link":http://www.fontstoc
 If you don't want to get your Fonts directory dirty, Georgia will serve you well.
 Or, if you don't have Georgia, you will see default serif font of your browser.
 
+h2. Included sites
+
+www.faqs.org
+postgresql.leopard.in.ua
+www.postgresql.org
+www.gnu.org (automake docs)
+c.learncodethehardway.org
+www.freebsd.org
+tools.ietf.org
+zsh.sourceforge.net
+www.w3.org (specifications etc.)
+comp-science.narod.ru
+beej.us
+
 And that's *all*! Happiness. Joy. =)
